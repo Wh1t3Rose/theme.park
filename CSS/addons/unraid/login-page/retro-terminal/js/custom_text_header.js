@@ -4,7 +4,7 @@
 // Needs to be inside <section id="login" class="shadow">
 
 let custom_text_header = `
-<div class="custom-text-header"> <pre> {text-align:center;font-size: 1vw;}     ____      __          _____
+<div class="custom-text-header"> <pre {text-align:center;font-size: 1vw;}>      ____
 ____ __  __ ___ _  _    ___ _____ ___ ____ ____ ____ _  _  
 ( ___(  )(  / __( )/ )  / __(  _  / __(_  _( ___(_  _( \/ )
  )__) )(__)( (__ )  (   \__ \)(_)( (__ _)(_ )__)  )(  \  / 
